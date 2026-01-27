@@ -1,16 +1,23 @@
-## Hi there 👋
+![](https://media.licdn.com/dms/image/v2/D5616AQG41rSQ0TwY4w/profile-displaybackgroundimage-shrink_350_1400/B56ZwAI5i2K0Ac-/0/1769528859786?e=1770854400&v=beta&t=pzzmBeCr0bw2rCPCnet51CHfFdv1VFHVL1JD4zmrR20)
+
+### Hi there 👋, This  is Sifat.
+
+I'm a Full Stack Web Application Developer from 🇧🇩 Bangladesh. Focused on building scalable, user focused and high performance web applications.
+Experienced across the full development lifecycle from intuitive front-end interfaces to robust back-end systems and APIs. Passionate about clean, maintainable code, continuous learning and turning ideas into real-world solutions. Open to collaboration and building impactful projects.
+
+- 🌱 I’m currently learning TypeScript 
+- 👯 I’m looking to collaborate on github 
+- 🤔 I’m looking for help with .. 
+- 💬 Ask me about Web Development 
 
 
-**sifatshams/sifatshams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sifatshams)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sifatshams/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://websifat.netlify.app/)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatshams)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifatshams&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/sifatshams)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sifatshams)  
 
