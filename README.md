@@ -6,7 +6,7 @@ I'm a Full Stack Web Application Developer from 🇧🇩 Bangladesh. Focused on 
 Experienced across the full development lifecycle from intuitive front-end interfaces to robust back-end systems and APIs. Passionate about clean, maintainable code, continuous learning and turning ideas into real-world solutions. Open to collaboration and building impactful projects.
 
 - 🌱 I’m currently learning TypeScript
-- 💻 Most used line of code console.log("hello world") 
+- 💻 Most used line of code: **`console.log('hello world')`**
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with .. 
 - 💬 Ask me about Web Development
@@ -25,10 +25,6 @@ Experienced across the full development lifecycle from intuitive front-end inter
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sifatshams)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sifatshams/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://websifat.netlify.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatshams)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifatshams&show_icons=true&count_private=true)  
 
