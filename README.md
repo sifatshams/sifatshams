@@ -5,13 +5,13 @@
 I'm a Full Stack Web Application Developer from 🇧🇩 Bangladesh. Focused on building scalable, user focused and high performance web applications.
 Experienced across the full development lifecycle from intuitive front-end interfaces to robust back-end systems and APIs. Passionate about clean, maintainable code, continuous learning and turning ideas into real-world solutions. Open to collaboration and building impactful projects.
 
-- 🌱 I’m currently learning TypeScript
+- ❤️ I enjoy coding and turning ideas into real-world applications
 - 💻 Most used line of code: **`console.log('hello world')`**
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with .. 
+- 📩 Feel free to contact me: <a href="mailto:sifatshams@outlook.com"><u>sifatshams@outlook.com</u></a>
+- 🐛 Debugging is my daily workout
 - 💬 Ask me about Web Development
 
-### 🧰 Things I code with
+### Things I code with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
