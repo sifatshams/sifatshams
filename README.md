@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQG41rSQ0TwY4w/profile-displaybackgroundimage-shrink_200_800/B56ZwAI5i2K0AY-/0/1769528859786?e=1779926400&v=beta&t=ZACyk7Q2p7PIZhHmdHj439kTjZdf4t0iFLEFOxiUkis)
+![Sifat Shams - X Cover](https://x.com/sifatshams/header_photo)
 
 ## Hey coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
 
