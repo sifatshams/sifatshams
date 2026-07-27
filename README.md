@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://x.com/sifatshams">
-    <img src="./assets/x-cover.png" alt="Sifat Shams X Cover" width="100%" />
+    <img src="sifat-pro-cover.png" alt="Sifat Shams X Cover" width="100%" />
   </a>
 </p>
 
