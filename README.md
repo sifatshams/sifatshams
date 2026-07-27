@@ -1,4 +1,8 @@
-![Sifat Shams - X Cover](https://x.com/sifatshams/header_photo)
+<p align="center">
+  <a href="https://x.com/sifatshams">
+    <img src="./assets/x-cover.png" alt="Sifat Shams X Cover" width="100%" />
+  </a>
+</p>
 
 ## Hey coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
 
