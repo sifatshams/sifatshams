@@ -11,7 +11,7 @@ Experienced across the full development lifecycle from intuitive front-end inter
 
 - ❤️ I enjoy coding and turning ideas into real world applications
 - 💻 Most used line of code **`console.log('hello world')`**
-- 📩 Feel free to contact me: <a href="mailto:sifatshams@outlook.com"><u>sifatshams@outlook.com</u></a>
+- 📩 Feel free to contact me: <a href="mailto:sifatbin.official@gmail.com"><u>sifatshams@outlook.com</u></a>
 - 🐛 Debugging is my daily workout
 - 💬 Ask me about Web Development
 
