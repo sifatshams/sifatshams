@@ -11,7 +11,7 @@ Experienced across the full development lifecycle from intuitive front-end inter
 
 - ❤️ I enjoy coding and turning ideas into real world applications
 - 💻 Most used line of code **`console.log('hello world')`**
-- 📩 Feel free to contact me: <a href="mailto:sifatbin.official@gmail.com"><u>sifatshams@outlook.com</u></a>
+- 📩 Feel free to contact me: <a href="mailto:sifatshams@outlook.com"><u>sifatshams@outlook.com</u></a>
 - 🐛 Debugging is my daily workout
 - 💬 Ask me about Web Development
 
@@ -24,15 +24,19 @@ Experienced across the full development lifecycle from intuitive front-end inter
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifatshams&show_icons=true&count_private=true)  
+### 📊 GitHub Stats
 
-![GitHub metrics](https://metrics.lecoq.io/sifatshams)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sifatshams&show_icons=true&theme=dark&count_private=true" alt="sifatshams's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatshams&layout=compact&theme=dark" alt="Top Languages" height="160" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sifatshams)  
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifatshams&theme=dark" alt="sifatshams's GitHub streak" />
+</p>
