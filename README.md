@@ -6,8 +6,9 @@
 
 ## Hey coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
 
-I'm a Full Stack Web Application Developer from 🇧🇩 Bangladesh. Focused on building scalable, user focused and high performance web applications.
-Experienced across the full development lifecycle from intuitive front-end interfaces to robust back-end systems and APIs. Passionate about clean, maintainable code, continuous learning and turning ideas into real-world solutions. Open to collaboration and building impactful projects.
+I'm a Full Stack Web Application Developer from Bangladesh 🇧🇩, focused on building scalable high performance and user centric web applications.
+I work across the full development lifecycle from modern responsive front-end interfaces to secure back-end systems RESTful APIs and GraphQL APIs. I value clean maintainable code thoughtful architecture and continuous learning with a strong focus on turning ideas into reliable real world solutions.
+Currently exploring modern backend technologies cloud native development and scalable application architecture. Open to collaboration, learning opportunities and building meaningful projects with other developers.
 
 - ❤️ I enjoy coding and turning ideas into real world applications
 - 💻 Most used line of code **`console.log('hello world')`**
@@ -20,12 +21,14 @@ Experienced across the full development lifecycle from intuitive front-end inter
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 ---
 
